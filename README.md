@@ -3,7 +3,7 @@
 Portfolio website built with HTML, CSS, and JavaScript.
 
 ## ▶️ Live Demo
-https://matheesh25.github.io
+(https://matheesh25.github.io/Portfolio/)
 
 ## 🖼️ Screenshots
 ![Home](screenshots/home.png)
