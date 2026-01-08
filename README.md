@@ -5,11 +5,6 @@ Portfolio website built with HTML, CSS, and JavaScript.
 ## ▶️ Live Demo
 (https://matheesh25.github.io/Portfolio/)
 
-## 🖼️ Screenshots
-![Home](screenshots/home.png)
-![Projects](screenshots/projects.png)
-![Contact](screenshots/contact.png)
-
 ## 🛠️ Setup Instructions
 1. Clone the repo
 2. Open `index.html` in browser
